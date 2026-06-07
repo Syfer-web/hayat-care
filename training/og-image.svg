@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A2727"/>
+      <stop offset="1" stop-color="#0E7C7B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="280" font-family="Georgia, serif" font-size="68" font-weight="700" fill="white">Free Care Training</text>
+  <text x="80" y="350" font-family="-apple-system, sans-serif" font-size="32" fill="#D4A574">£2,000+ of qualifications, fully funded</text>
+  <text x="80" y="430" font-family="-apple-system, sans-serif" font-size="24" fill="rgba(255,255,255,0.7)">Care Certificate · Level 2 &amp; 3 Diplomas · Guaranteed job on completion</text>
+  <text x="80" y="500" font-family="-apple-system, sans-serif" font-size="22" fill="rgba(255,255,255,0.5)">hayatcare.co.uk/training</text>
+</svg>

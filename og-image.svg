@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A2727"/>
+      <stop offset="1" stop-color="#0E7C7B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#D4A574" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#D4A574" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g transform="translate(80, 80)">
+    <circle cx="60" cy="60" r="60" fill="#0E7C7B"/>
+    <path d="M60 30 C 42 42, 36 54, 36 66 a 24 24 0 0 0 48 0 c 0 -12 -6 -24 -24 -36 z" fill="#D4A574"/>
+  </g>
+  <text x="80" y="320" font-family="Georgia, serif" font-size="84" font-weight="700" fill="white">Hayat Care</text>
+  <text x="80" y="380" font-family="Georgia, serif" font-size="36" font-weight="500" fill="#D4A574">Compassionate home care</text>
+  <text x="80" y="460" font-family="-apple-system, sans-serif" font-size="28" fill="rgba(255,255,255,0.85)">CQC-registered home care across Birmingham &amp; the West Midlands</text>
+  <text x="80" y="510" font-family="-apple-system, sans-serif" font-size="22" fill="rgba(255,255,255,0.6)">Dignity · Faith · Family · hayatcare.co.uk</text>
+</svg>
